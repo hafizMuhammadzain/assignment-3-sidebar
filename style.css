@@ -1,0 +1,163 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background: rgb(255, 244, 244);
+}
+.navbox{ 
+   box-shadow:0px 0px 5px black ;
+    background: #ffffff;
+    height: 60px;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+float: left;
+text-transform: uppercase;
+cursor: pointer;
+padding: 0 100px;
+position: fixed;
+margin-top: 12px;
+} 
+ul{
+    
+    font-weight: bolder;
+    font-size: 18px;
+    float: right;
+   margin-top: 20px;
+   text-decoration: none;
+   margin-right: 50px;
+   color: black;
+}
+li{
+   
+    margin: 15px; 
+    display: inline;
+    list-style:none;
+    text-transform:uppercase  
+
+    
+}
+nav ul li a{
+    
+    text-decoration: none;
+}
+
+
+
+
+.box-1 {
+    margin: 100px;
+margin-top: 140px;
+    border-radius: 0.5ch;
+    box-shadow: 0px 0px 10px black;
+    width: 320px;
+    height: 400px;
+    background: rgb(255, 176, 176);
+    text-decoration: color(rgb rgb(245, 59, 59) green blue);
+}
+
+.p-1 {
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.div-1 {
+    text-align: center;
+    padding-top: 18px;
+
+}
+
+.button {
+
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 60px;
+    border-radius: 7ch;
+    color: rgb(255, 176, 176);
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+
+
+.box-2 {
+    margin: 50px;
+    margin-top: 140px;
+    border-radius: 0.5ch;
+    box-shadow: 0px 0px 10px black;
+    width: 320px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    text-decoration: color(rgb(0, 0, 0) green blue);
+}
+
+.p-2 {
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.div-2 {
+    text-align: center;
+    padding-top: 18px;
+
+}
+
+.button-1 { color: white;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 60px;
+    border-radius: 7ch;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+   
+}
+
+.box-3 {
+    margin: 100px;
+    margin-top: 140px;
+    border-radius: 0.5ch;
+    box-shadow: 0px 0px 10px black;
+    width: 320px;
+    height: 400px;
+    background: #ffb0b0;
+    text-decoration: color(rgb rgb(245, 59, 59) green blue);
+}
+
+.p-3 {
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.div-3 {
+    text-align: center;
+    padding-top: 18px;
+
+}
+
+.button {
+
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 60px;
+    border-radius: 7ch;
+    color: rgb(255, 176, 176);
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.large-box {display: flex ;
+   
+}
